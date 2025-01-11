@@ -4,6 +4,7 @@ node_modules/
 # Build output (Create React App)
 build/
 dist/
+_assets/
 
 # Testing
 coverage/
